@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "499184359239",
+    "firebase_url": "https://notificationtest-b05f6.firebaseio.com",
+    "project_id": "notificationtest-b05f6",
+    "storage_bucket": "notificationtest-b05f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499184359239:android:bd86e5057e784d99",
+        "android_client_info": {
+          "package_name": "com.example.whitewalkers.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499184359239-vl06ldf6fgc34vj5r799vvl2mcva8ibd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Sq82OpxAb6n0AQJPudJaQStmCmsvqi0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
