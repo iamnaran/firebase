@@ -7,4 +7,4 @@ In #MyFirebaseinstanceService class
 
 This will generate current token of your device.. Use it to send notification form firebase console to get notification in that device...
 
-And Dont forget to copy and paste your json in app folder :) 
+And Dont forget to copy and paste your google_service.json in app folder :) 
